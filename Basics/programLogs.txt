@@ -1,0 +1,163 @@
+ 2018-09-04 13:33:20,741 - INFO - INFO -- Start of program
+ 2018-09-04 13:33:20,742 - DEBUG - Start of program
+ 2018-09-04 13:33:20,742 - DEBUG - Start of factorial(5)
+ 2018-09-04 13:33:20,742 - DEBUG - i is 0, total is 0
+ 2018-09-04 13:33:20,742 - DEBUG - i is 1, total is 0
+ 2018-09-04 13:33:20,742 - DEBUG - i is 2, total is 0
+ 2018-09-04 13:33:20,742 - DEBUG - i is 3, total is 0
+ 2018-09-04 13:33:20,742 - DEBUG - i is 4, total is 0
+ 2018-09-04 13:33:20,742 - DEBUG - i is 5, total is 0
+ 2018-09-04 13:33:20,742 - DEBUG - End of factorial(5)
+ 2018-09-04 13:33:20,742 - DEBUG - End of program
+ 2018-09-04 13:33:20,742 - INFO - INFO -- End of program
+ 2018-09-04 13:33:37,001 - INFO - INFO -- Start of program
+ 2018-09-04 13:33:37,002 - DEBUG - Start of program
+ 2018-09-04 13:33:37,002 - DEBUG - Start of factorial(5)
+ 2018-09-04 13:33:37,002 - DEBUG - i is 0, total is 0
+ 2018-09-04 13:33:37,002 - DEBUG - i is 1, total is 0
+ 2018-09-04 13:33:37,002 - DEBUG - i is 2, total is 0
+ 2018-09-04 13:33:37,002 - DEBUG - i is 3, total is 0
+ 2018-09-04 13:33:37,002 - DEBUG - i is 4, total is 0
+ 2018-09-04 13:33:37,002 - DEBUG - i is 5, total is 0
+ 2018-09-04 13:33:37,002 - DEBUG - End of factorial(5)
+ 2018-09-04 13:33:37,002 - DEBUG - End of program
+ 2018-09-04 13:33:37,002 - INFO - INFO -- End of program
+ 2018-09-04 13:34:42,334 - INFO - INFO -- Start of program
+ 2018-09-04 13:34:42,335 - DEBUG - Start of program
+ 2018-09-04 13:34:42,335 - DEBUG - Start of factorial(5)
+ 2018-09-04 13:34:42,335 - DEBUG - i is 0, total is 0
+ 2018-09-04 13:34:42,335 - DEBUG - i is 1, total is 0
+ 2018-09-04 13:34:42,335 - DEBUG - i is 2, total is 0
+ 2018-09-04 13:34:42,335 - DEBUG - i is 3, total is 0
+ 2018-09-04 13:34:42,335 - DEBUG - i is 4, total is 0
+ 2018-09-04 13:34:42,335 - DEBUG - i is 5, total is 0
+ 2018-09-04 13:34:42,335 - DEBUG - End of factorial(5)
+ 2018-09-04 13:34:42,335 - DEBUG - End of program
+
+ 2018-09-04 13:34:42,335 - INFO - INFO -- End of program
+
+ 2018-09-05 10:38:30,005 - INFO - INFO -- Start of program
+ 2018-09-05 10:38:30,006 - DEBUG - Start of program
+ 2018-09-05 10:38:30,006 - DEBUG - Start of factorial(5)
+ 2018-09-05 10:38:30,006 - DEBUG - i is 0, total is 0
+ 2018-09-05 10:38:30,006 - DEBUG - i is 1, total is 0
+ 2018-09-05 10:38:30,006 - DEBUG - i is 2, total is 0
+ 2018-09-05 10:38:30,006 - DEBUG - i is 3, total is 0
+ 2018-09-05 10:38:30,006 - DEBUG - i is 4, total is 0
+ 2018-09-05 10:38:30,007 - DEBUG - i is 5, total is 0
+ 2018-09-05 10:38:30,007 - DEBUG - End of factorial(5)
+ 2018-09-05 10:38:30,007 - DEBUG - End of program
+
+ 2018-09-05 10:38:30,007 - INFO - INFO -- End of program
+
+ 2018-09-05 10:38:57,963 - INFO - INFO -- Start of program
+ 2018-09-05 10:38:57,963 - DEBUG - Start of program
+ 2018-09-05 10:38:57,964 - DEBUG - Start of factorial(5)
+ 2018-09-05 10:38:57,964 - DEBUG - i is 0, total is 0
+ 2018-09-05 10:38:57,964 - DEBUG - i is 1, total is 0
+ 2018-09-05 10:38:57,964 - DEBUG - i is 2, total is 0
+ 2018-09-05 10:38:57,964 - DEBUG - i is 3, total is 0
+ 2018-09-05 10:38:57,964 - DEBUG - i is 4, total is 0
+ 2018-09-05 10:38:57,964 - DEBUG - i is 5, total is 0
+ 2018-09-05 10:38:57,964 - DEBUG - End of factorial(5)
+ 2018-09-05 10:38:57,964 - DEBUG - End of program
+
+ 2018-09-05 10:38:57,964 - INFO - INFO -- End of program
+
+ 2018-09-05 10:39:08,883 - INFO - INFO -- Start of program
+ 2018-09-05 10:39:08,883 - DEBUG - Start of program
+ 2018-09-05 10:39:08,883 - DEBUG - Start of factorial(5)
+ 2018-09-05 10:39:08,884 - DEBUG - i is 0, total is 0
+ 2018-09-05 10:39:08,884 - DEBUG - i is 1, total is 0
+ 2018-09-05 10:39:08,884 - DEBUG - i is 2, total is 0
+ 2018-09-05 10:39:08,884 - DEBUG - i is 3, total is 0
+ 2018-09-05 10:39:08,884 - DEBUG - i is 4, total is 0
+ 2018-09-05 10:39:08,884 - DEBUG - i is 5, total is 0
+ 2018-09-05 10:39:08,884 - DEBUG - End of factorial(5)
+ 2018-09-05 10:39:08,884 - DEBUG - End of program
+
+ 2018-09-05 10:39:08,884 - INFO - INFO -- End of program
+
+ 2018-09-05 10:39:25,420 - INFO - INFO -- Start of program
+ 2018-09-05 10:39:25,421 - DEBUG - Start of program
+ 2018-09-05 10:39:25,421 - DEBUG - Start of factorial(5)
+ 2018-09-05 10:39:25,421 - DEBUG - i is 0, total is 0
+ 2018-09-05 10:39:25,421 - DEBUG - i is 1, total is 0
+ 2018-09-05 10:39:25,421 - DEBUG - i is 2, total is 0
+ 2018-09-05 10:39:25,421 - DEBUG - i is 3, total is 0
+ 2018-09-05 10:39:25,422 - DEBUG - i is 4, total is 0
+ 2018-09-05 10:39:25,422 - DEBUG - i is 5, total is 0
+ 2018-09-05 10:39:25,422 - DEBUG - End of factorial(5)
+ 2018-09-05 10:39:25,422 - DEBUG - End of program
+
+ 2018-09-05 10:39:25,422 - INFO - INFO -- End of program
+
+ 2018-09-05 10:39:49,006 - INFO - INFO -- Start of program
+ 2018-09-05 10:39:49,006 - DEBUG - Start of program
+ 2018-09-05 10:39:49,007 - DEBUG - Start of factorial(5)
+ 2018-09-05 10:39:49,007 - DEBUG - i is 0, total is 0
+ 2018-09-05 10:39:49,008 - DEBUG - i is 1, total is 0
+ 2018-09-05 10:39:49,009 - DEBUG - i is 2, total is 0
+ 2018-09-05 10:39:49,009 - DEBUG - i is 3, total is 0
+ 2018-09-05 10:39:49,009 - DEBUG - i is 4, total is 0
+ 2018-09-05 10:39:49,009 - DEBUG - i is 5, total is 0
+ 2018-09-05 10:39:49,009 - DEBUG - End of factorial(5)
+ 2018-09-05 10:39:49,009 - DEBUG - End of program
+
+ 2018-09-05 10:39:49,009 - INFO - INFO -- End of program
+
+ 2018-09-05 10:40:03,340 - INFO - INFO -- Start of program
+ 2018-09-05 10:40:03,340 - INFO - INFO -- End of program
+
+ 2018-09-05 10:41:38,032 - INFO - INFO -- Start of program
+ 2018-09-05 10:41:38,032 - DEBUG - Start of program
+ 2018-09-05 10:41:38,033 - DEBUG - Start of factorial(5)
+ 2018-09-05 10:41:38,033 - DEBUG - i is 1, total is 1
+ 2018-09-05 10:41:38,033 - DEBUG - i is 2, total is 2
+ 2018-09-05 10:41:38,033 - DEBUG - i is 3, total is 6
+ 2018-09-05 10:41:38,033 - DEBUG - i is 4, total is 24
+ 2018-09-05 10:41:38,033 - DEBUG - i is 5, total is 120
+ 2018-09-05 10:41:38,033 - DEBUG - End of factorial(5)
+ 2018-09-05 10:41:38,033 - DEBUG - End of program
+
+ 2018-09-05 10:41:38,033 - INFO - INFO -- End of program
+
+ 2018-09-05 11:03:50,291 - INFO - INFO -- Start of program
+ 2018-09-05 11:03:50,292 - DEBUG - Start of program
+ 2018-09-05 11:03:50,292 - DEBUG - Start of factorial(5)
+ 2018-09-05 11:03:50,292 - DEBUG - i is 1, total is 1
+ 2018-09-05 11:03:50,292 - DEBUG - i is 2, total is 2
+ 2018-09-05 11:03:50,292 - DEBUG - i is 3, total is 6
+ 2018-09-05 11:03:50,292 - DEBUG - i is 4, total is 24
+ 2018-09-05 11:03:50,292 - DEBUG - i is 5, total is 120
+ 2018-09-05 11:03:50,292 - DEBUG - End of factorial(5)
+ 2018-09-05 11:03:50,292 - DEBUG - End of program
+
+ 2018-09-05 11:03:50,292 - INFO - INFO -- End of program
+
+ 2018-09-05 11:04:04,360 - INFO - INFO -- Start of program
+ 2018-09-05 11:04:04,360 - DEBUG - Start of program
+ 2018-09-05 11:04:04,360 - DEBUG - Start of factorial(5)
+ 2018-09-05 11:04:04,360 - DEBUG - i is 1, total is 1
+ 2018-09-05 11:04:04,360 - DEBUG - i is 2, total is 2
+ 2018-09-05 11:04:04,360 - DEBUG - i is 3, total is 6
+ 2018-09-05 11:04:04,360 - DEBUG - i is 4, total is 24
+ 2018-09-05 11:04:04,360 - DEBUG - i is 5, total is 120
+ 2018-09-05 11:04:04,360 - DEBUG - End of factorial(5)
+ 2018-09-05 11:04:04,360 - DEBUG - End of program
+
+ 2018-09-05 11:04:04,361 - INFO - INFO -- End of program
+
+ 2019-05-10 12:24:46,581 - INFO - INFO -- Start of program
+ 2019-05-10 12:24:46,582 - DEBUG - Start of program
+ 2019-05-10 12:24:46,582 - DEBUG - Start of factorial(5)
+ 2019-05-10 12:24:46,582 - DEBUG - i is 1, total is 1
+ 2019-05-10 12:24:46,582 - DEBUG - i is 2, total is 2
+ 2019-05-10 12:24:46,582 - DEBUG - i is 3, total is 6
+ 2019-05-10 12:24:46,582 - DEBUG - i is 4, total is 24
+ 2019-05-10 12:24:46,582 - DEBUG - i is 5, total is 120
+ 2019-05-10 12:24:46,582 - DEBUG - End of factorial(5)
+ 2019-05-10 12:24:46,583 - DEBUG - End of program
+
+ 2019-05-10 12:24:46,583 - INFO - INFO -- End of program
+
